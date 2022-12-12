@@ -1,0 +1,17 @@
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.Form1.resources
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.AssemblyInfo.cs
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0-windows\BasicProgramming.exe
+C:\Users\moham\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0-windows\BasicProgramming.deps.json
+C:\Users\moham\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0-windows\BasicProgramming.runtimeconfig.json
+C:\Users\moham\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0-windows\BasicProgramming.dll
+C:\Users\moham\source\repos\MCC73\BasicProgramming\bin\Debug\net6.0-windows\BasicProgramming.pdb
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.dll
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\refint\BasicProgramming.dll
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.pdb
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\BasicProgramming.genruntimeconfig.cache
+C:\Users\moham\source\repos\MCC73\BasicProgramming\obj\Debug\net6.0-windows\ref\BasicProgramming.dll

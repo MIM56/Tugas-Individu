@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\MCC73\Mahasiswa\bin\Debug\net6.0\Mahasiswa.exe
+C:\Users\moham\source\repos\MCC73\Mahasiswa\bin\Debug\net6.0\Mahasiswa.deps.json
+C:\Users\moham\source\repos\MCC73\Mahasiswa\bin\Debug\net6.0\Mahasiswa.runtimeconfig.json
+C:\Users\moham\source\repos\MCC73\Mahasiswa\bin\Debug\net6.0\Mahasiswa.dll
+C:\Users\moham\source\repos\MCC73\Mahasiswa\bin\Debug\net6.0\Mahasiswa.pdb
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.AssemblyInfo.cs
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.dll
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\refint\Mahasiswa.dll
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.pdb
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\Mahasiswa.genruntimeconfig.cache
+C:\Users\moham\source\repos\MCC73\Mahasiswa\obj\Debug\net6.0\ref\Mahasiswa.dll

@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.AssemblyInfo.cs
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\MCC73\Create\bin\Debug\net6.0\Create.exe
+C:\Users\moham\source\repos\MCC73\Create\bin\Debug\net6.0\Create.deps.json
+C:\Users\moham\source\repos\MCC73\Create\bin\Debug\net6.0\Create.runtimeconfig.json
+C:\Users\moham\source\repos\MCC73\Create\bin\Debug\net6.0\Create.dll
+C:\Users\moham\source\repos\MCC73\Create\bin\Debug\net6.0\Create.pdb
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.dll
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\refint\Create.dll
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.pdb
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\Create.genruntimeconfig.cache
+C:\Users\moham\source\repos\MCC73\Create\obj\Debug\net6.0\ref\Create.dll
